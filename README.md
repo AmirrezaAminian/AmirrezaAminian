@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aminian.amirreza@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/amirreza-aminian-65b66a275/](https://www.linkedin.com/in/amirreza-aminian-65b66a275">Linkedin</a>
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/amirreza-aminian-65b66a275/">Linkedin</a>
 
 - ⚡ Fun fact **I love Working out and watch coding streams**
 
